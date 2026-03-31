@@ -92,7 +92,7 @@ function About() {
               <div className="flex flex-col">
                 <span className="text-3xl font-black text-white">1000+</span>
                 <span className="text-xs text-slate-500 uppercase tracking-widest font-bold">
-                  Years Experience
+                  DSA questions
                 </span>
               </div>
               <div className="w-[1px] h-10 bg-white/10" />
